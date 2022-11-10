@@ -1,0 +1,56 @@
+/*.header{	
+	background: blue;
+	justify-content: space-between;
+}
+.header button{
+	background: blue;
+	color: white;
+	border: none;
+	padding: 15px;
+	
+}*/
+.flex{
+	display: flex;	
+	border: 1px blue solid;
+}
+.flex div{
+	border: 1px blue solid;
+	margin: 5px;
+}
+.right{
+	display: flex;
+	justify-content: flex-end;
+}
+.down div{
+	margin-top: 8px;
+}
+.redBorder {
+	border: 1px red solid;
+	color: red;
+}
+.newDiv {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 300px;
+}
+.greenBorder{
+	border: 1px green solid;
+	color: green;
+}
+/*.flex div{
+	margin: 0 15px;
+}
+.flex a{
+	margin-left: 10px;
+	text-decoration: none;
+}*/
+/*.alignment{
+	align-items: center;*/
+}
+/*.alignment div{
+	margin: 0 15px;
+}*/
+/*.withoutindent{
+	margin: 0;
+}*/

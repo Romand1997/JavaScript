@@ -1,0 +1,14 @@
+
+.flex{
+	display: flex;	
+	border: 1px blue solid;
+	margin-top: 5px;
+	
+	width: 100% ;
+}
+.flex div {
+	width: 10%;
+}
+.flex img {
+	 width: 100px;
+}

@@ -1,0 +1,46 @@
+.flex{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	width: 20%;
+	border: 1px blue solid;
+	align-content: space-around;
+}
+.flexCenter{
+	display: flex;
+	flex-wrap: wrap;	
+	justify-content: center;
+	align-content: center;
+	border: 1px red solid;
+	margin: 0 5px;	
+
+}
+.flex button {
+	background: green;	
+	color: white;
+	margin-top: 5px;
+	border: none;
+	padding: 5px 20px;
+}
+.flex h3 {
+	
+	margin: 5px 0;
+}
+.flex h5 {
+	
+	margin: 5px 0 ;
+}
+
+.invalid {
+	color: red;
+}
+.invalidEm {
+	border: 1px red solid;
+}
+.marginUp {
+	margin-top: 5px;
+}
+.marginDown {
+	margin-bottom: 5px;
+}
